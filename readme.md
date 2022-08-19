@@ -18,6 +18,4 @@ Took around **5 hrs**
 
 ## Live link
 
-[Project Link] (https://project12-delta.vercel.app/)
-
-
+[Project Link] ('https://project12-delta.vercel.app/')
