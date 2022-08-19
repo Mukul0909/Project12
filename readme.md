@@ -18,6 +18,6 @@ Took around **5 hrs**
 
 ## Live link
 
-[Project Link](https://google.com "Netlify")
+[Project Link] (https://project12-delta.vercel.app/)
 
 
